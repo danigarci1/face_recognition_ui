@@ -1,0 +1,4 @@
+mediapipe==0.10.5
+onnxruntime==1.16.0
+stow==1.2.2
+ultralytics==8.0.192

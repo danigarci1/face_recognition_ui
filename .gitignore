@@ -1,0 +1,18 @@
+#Other archives
+*.log
+*tmp/*
+*.json
+
+#python binaries
+*__pycache__*
+*.pyc
+*venv*
+
+#image formats
+*.jpeg
+*.webp
+*.mp4
+*.png
+*.jpg
+*.mov
+*.zip
