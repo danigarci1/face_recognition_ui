@@ -1,6 +1,6 @@
 # pyFRec
 The purpose of this repo is to provide a user friendly app for performing face recognition
-![michael_det](assets/resources/michaelDet.png)
+![sample](assets/resources/sample.gif)
 
 ## Install 
 
@@ -41,22 +41,23 @@ Place all the images in the assets/faces folder. Each folder should contain mult
 The embeddings file will be generated in assets/encodings
 
 ```
-python save_embeddings.py
+python src/save_embeddings.py
 ```
 
 ### 2. Run main file
 Check the config.cfg for system configuration
 
 ```
-python main.py
+python src/main.py
 ```
 
 
 ## GUI usage
 
 ```
-python ui.py
+python src/ui.py
 ```
 ![main_view](assets/resources/main_view.png)
 
+![michaelDet](assets/resources/michaelDet.png)
 
