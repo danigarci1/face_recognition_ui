@@ -50,6 +50,7 @@ Check the config.cfg for system configuration
 ```
 python src/main.py
 ```
+![michaelDet](assets/resources/michaelDet.png)
 
 
 ## GUI usage
@@ -59,5 +60,4 @@ python src/ui.py
 ```
 ![main_view](assets/resources/main_view.png)
 
-![michaelDet](assets/resources/michaelDet.png)
 
