@@ -16,7 +16,7 @@ class ImageApp(QMainWindow):
     detection_confidence = 0.4
     def __init__(self):
         super().__init__()
-        self.setWindowTitle('Image Display Application')
+        self.setWindowTitle('pyFRec')
         self.setGeometry(100, 100, 800, 600)
 
         # The label that displays the image
